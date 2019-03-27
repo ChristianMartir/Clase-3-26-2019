@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\chris\source\repos\WindowsFormsApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
